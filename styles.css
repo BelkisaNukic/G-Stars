@@ -1,0 +1,22 @@
+.navigation a {
+    float: left;
+    color: red;
+    text-align: center;
+    padding:15px 10px;
+
+    display: inline;
+
+    }
+ body {   
+	font-family: arial, sans-serif;  
+	color: white;  
+	background-color: black;
+	background-image: url("logo.jpg");
+	background-size: 70% 100%;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+    background-position: top;
+    background-size: fill;
+
+
+}   
